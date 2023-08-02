@@ -1,0 +1,6 @@
+{
+  "ramparheader": {
+    "component": "RamparHeader",
+    "composition": "children"
+  }
+}
